@@ -13,9 +13,16 @@
 * [https://mangaraw.baby/](https://mangaraw.baby/) (Mixed, often Japanese/Chinese)
 * [https://rawme.net/](https://rawme.net/) (Mixed raws)
 * [https://webtoonraw.com/](https://webtoonraw.com/) (Manhwa focus & 18+)
-* [https://tkor084.com/](https://tkor084.com/) (Korean manhwa raw)
-* [https://newtoki469.com/](https://newtoki469.com/) (domains change often)
+* [https://tkor084.com/](https://tkor084.com/)
+* [https://newtoki469.com/](https://newtoki469.com/)
+* [https://wfwf446.com/](https://wfwf446.com/)
+* [https://manatoki469.net/](https://manatoki469.net/)
 * [https://baozimh.org/](https://baozimh.org/) (Baozi Manhua - Chinese focus)
 * [https://www.colamanga.com/](https://www.colamanga.com/) (ColaManga - Chinese manhua)
 * [https://rawkuma.com/](https://rawkuma.com/) (Japanese manga raw focus)
 * [https://raw.senmanga.com/](https://raw.senmanga.com/) (Japanese raw manga)
+
+
+### Other
+
+[https://checkduck.com/](https://checkduck.com/)
