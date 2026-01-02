@@ -1,4 +1,5 @@
 # Raw Comics Web
+- List of raw manga/manhwa/manhua website
 
 * [https://comic.naver.com/](https://comic.naver.com/)
 * [https://ac.qq.com/](https://ac.qq.com/)
