@@ -22,6 +22,7 @@ These are the legit ones from publishers or big platforms.
 - [iqiyi.com/manhua](https://www.iqiyi.com/manhua/) - iQiyi Manhua, more official Chinese reads.
 
 ### Manga (Japanese + Translation)
+- [https://comic-days.com/](https://comic-days.com/) - (Blank for now)
 - [shonenjumpplus.com](https://shonenjumpplus.com/) - Shonen Jump+, great for Jump series with free eps.
 - [mangaplus.shueisha.co.jp](https://mangaplus.shueisha.co.jp/) - MANGA Plus by Shueisha, drops raw chapters same time as Japan, free for hits like One Piece.
 - [kmanga.kodansha.com](https://kmanga.kodansha.com/) - K MANGA from Kodansha, free starters then points for extras.
