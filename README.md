@@ -62,7 +62,7 @@ Places to keep tabs on your reads progress, ratings, alerts for new drops across
 - [anime-planet.com](https://www.anime-planet.com/) - Anime-Planet, good recs too.
 - [kenmei.co](https://www.kenmei.co/) - Kenmei, webtoon-friendly.
 - [mangaupdates.com](https://www.mangaupdates.com/) - MangaUpdates, detailed info.
-- [comick.dev](https://comick.dev/) - Comick, dev vibes.
+- [comick.dev](https://comick.dev/) - Comick was a place to read any manhwa/manhua/manga for free but turned into a tracker now.
 - [MangaTime app](https://play.google.com/store/apps/details?id=net.mangatime.app) - App for tracking all types on mobile.
 
 ## Other
