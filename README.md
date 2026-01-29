@@ -2,7 +2,7 @@
 List of spots to grab raw manga (Japanese), manhwa (Korean), and manhua (Chinese). Mostly free or with some paid bits so check it out yourself.
 - **Note:** If I got any of these wrong or misplaced the site in a different section, im sorry I'll fix it later and you can help by making a pull requests.
 
-## Official
+## Official 
 These are the legit ones from publishers or big platforms.
 
 ### Manhwa (Korean)
