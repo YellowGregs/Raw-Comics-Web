@@ -1,6 +1,12 @@
 # Raw Comics Web
-List of spots to grab raw manga (Japanese), manhwa (Korean), and manhua (Chinese). Mostly free or with some paid bits so check it out yourself.
-- **Note:** If I got any of these wrong or misplaced the site in a different section, im sorry I'll fix it later and you can help by making a pull requests.
+Quick list of spots to grab raw manga (Japanese), manhwa (Korean), and manhua (Chinese). Most are free with some paid options or ads, so check it out yourself.
+
+**Note:** If I got anything wrong or misplaced a site, sorry about that, I'll update when I can. Feel free to open a pull request with fixes or suggestions.
+
+Also, check out the live version of this list (with nicer formatting and sections):  
+👉 https://raw-comic.vercel.app/
+
+(It's the same content as here but easier to browse. Official separated by Korean/Chinese/Japanese, Unofficial grouped by focus and, etc.)
 
 ## Official 
 These are the legit ones from publishers or big platforms.
