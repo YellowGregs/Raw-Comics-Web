@@ -14,6 +14,7 @@ These are the legit ones from publishers or big platforms.
 ### Manhwa (Korean)
 - [comic.naver.com](https://comic.naver.com/) - Naver Webtoon, tons of Korean stuff in raw form.
 - [page.kakao.com](https://page.kakao.com/) - Kakao Page, another solid Korean raw spot.
+- [webtoon.kakao.com/](https://webtoon.kakao.com/) - Kakao Webtoon: Official raw Korean webtoons/originals, free episodes/events, coin system for more, and great for fresh series.
 
 ### Manhua (Chinese)
 - [ac.qq.com](https://ac.qq.com/) - Tencent Comics, big Chinese library.
@@ -22,12 +23,13 @@ These are the legit ones from publishers or big platforms.
 - [iqiyi.com/manhua](https://www.iqiyi.com/manhua/) - iQiyi Manhua, more official Chinese reads.
 
 ### Manga (Japanese + Translation)
-- [https://comic-days.com/](https://comic-days.com/) - (Blank for now)
 - [shonenjumpplus.com](https://shonenjumpplus.com/) - Shonen Jump+, great for Jump series with free eps.
 - [mangaplus.shueisha.co.jp](https://mangaplus.shueisha.co.jp/) - MANGA Plus by Shueisha, drops raw chapters same time as Japan, free for hits like One Piece.
 - [kmanga.kodansha.com](https://kmanga.kodansha.com/) - K MANGA from Kodansha, free starters then points for extras.
 - [comic-walker.com](https://comic-walker.com/) - Comic Walker by Kadokawa.
 - [bookwalker.jp](https://bookwalker.jp/) - BOOK☆WALKER, Kadokawas shop for raw manga and novels use a JP setup for full access.
+- [comic-days.com](https://comic-days.com) - Comic DAYS: Official web platform with magazines, free chapters, originals, and subscription for full raws.
+- [mangaz.com/](https://www.mangaz.com/) - Free full volume raw manga of out-of-print, rare, and classic titles with creator/publisher permission, great for older/obscure stuff (ad-supported, some PDF buys).
 
 ## Unofficial
 unofficial raw sites, honestly, no clue if some are half are official. I double checked a bunch, and yeah, they're mostly in the right sections, but a few got shuffled based on what they actually host (like manatoki is more Japanese despite the Korean vibes).
