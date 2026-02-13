@@ -71,3 +71,4 @@ Places to keep tabs on your reads progress, ratings, alerts for new drops across
 
 ## Other
 - [everythinmoee](https://everythingmoe.com/)
+- [https://fmhy.net/reading](https://fmhy.net/reading)
