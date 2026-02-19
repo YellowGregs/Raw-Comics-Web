@@ -69,6 +69,7 @@ Places to keep tabs on your reads progress, ratings, alerts for new drops across
 - [comick.dev](https://comick.dev/) - Comick was a place to read any manhwa/manhua/manga for free but turned into a tracker now.
 - [MangaTime app](https://play.google.com/store/apps/details?id=net.mangatime.app) - App for tracking all types on mobile.
 
-## Other
+## Other (random)
 - [everythinmoee](https://everythingmoe.com/)
 - [https://fmhy.net/reading](https://fmhy.net/reading)
+- [https://theindex.moe/](https://theindex.moe/)
