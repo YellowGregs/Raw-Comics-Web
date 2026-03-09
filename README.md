@@ -55,7 +55,10 @@ unofficial raw sites, honestly, no clue if some are half are official. I double 
 ### Mixed / Aggregators
 - [baozimh.com](https://baozimh.com/) - Blends Japanese, Korean, and Chinese sections for each.
 - [dumanwu.com](https://dumanwu.com/) - Mix of all three, random grabs.
-- [wfwf446.com](https://wfwf446.com/) - Aggregates manhwa and manhua mostly.
+- [wfwf448.com](https://wfwf448.com/) - Aggregates manhwa and manhua mostly.
+- [wftoon204.com](https://wftoon204.com/)
+- [wtwt322.com](https://wtwt322.com/)
+- [fxfx318.com](https://fxfx318.com/)
 
 ## Trackers
 Places to keep tabs on your reads progress, ratings, alerts for new drops across anime, manga, etc.
