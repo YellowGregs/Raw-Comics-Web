@@ -78,3 +78,4 @@ Places to keep tabs on your reads progress, ratings, alerts for new drops across
 - [everythinmoee](https://everythingmoe.com/)
 - [https://fmhy.net/reading](https://fmhy.net/reading)
 - [https://theindex.moe/](https://theindex.moe/)
+- [https://ssakmoa029.com](https://ssakmoa029.com/)
