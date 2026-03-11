@@ -42,7 +42,6 @@ unofficial raw sites, honestly, no clue if some are half are official. I double 
 - [rawme.net](https://rawme.net/) - Japanese raw manga, quick updates.
 
 ### Manhwa (Korean raw focus)
-- [tkor084.com](https://tkor084.com/) - Korean manhwa raws, heavy on webtoons and BL oh and also 18+ stuff too.
 - [newtoki469.com](https://newtoki469.com/) - Korean manhwa previews, domains flip a lot.
 - [qisimanhua.com](https://qisimanhua.com/) - Mostly Korean manhwa despite the name, with some other mixes.
 
