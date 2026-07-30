@@ -40,6 +40,7 @@ unofficial raw sites, honestly, no clue if some are half are official. I double 
 - [manatoki469.net](https://manatoki469.net/) - Japanese manga hub, even though it's in Korean focuses on stuff.
 - [mangaraw.baby](https://mangaraw.baby/) - Mostly Japanese raws, some Chinese mixed in.
 - [rawme.net](https://rawme.net/) - Japanese raw manga, quick updates.
+- [sp.manga.nicovideo.jp](https://sp.manga.nicovideo.jp/) - i have no clue if this is official or unofficial i just found it
 
 ### Manhwa (Korean raw focus)
 - [newtoki469.com](https://newtoki469.com/) - Korean manhwa previews, domains flip a lot.
