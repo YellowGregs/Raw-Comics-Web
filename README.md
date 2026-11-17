@@ -101,6 +101,10 @@ Places to keep tabs on your reading progress, ratings, and alerts for new releas
 ---
 
 ## Other Indexes & Directories
-- [everythingmoe.com](https://everythingmoe.com/) - Curated index of anime, manga, and raw sites/tools.
-- [fmhy.net/reading](https://fmhy.net/reading) - Regularly maintained community directory of reading and manga resources.
-- [theindex.moe](https://theindex.moe/) - Community-maintained directory of anime, manga, and raw platforms.
+- [everythingmoe.com](https://everythingmoe.com/)
+- [fmhy.net/reading](https://fmhy.net/reading)
+- [theindex.moe](https://theindex.moe/)
+- [wotaku.wiki](https://wotaku.wiki/)
+- [ripped.guide](https://ripped.guide/)
+- [keiyoushi.github.io/extensions](https://keiyoushi.github.io/extensions/)
+- [cubari.moe](https://cubari.moe/)
